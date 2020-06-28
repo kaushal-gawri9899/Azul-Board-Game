@@ -1,0 +1,84 @@
+# Grey Board Mode: 
+0
+# 6 Tile Mode: 
+0
+# Number Of Players: 
+4
+# Number of Centre Factories: 
+2
+# Bag
+LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+# Lid: 
+_ 
+# Factories: 
+F
+
+L L L L
+L L L L
+L L L L
+L L U U
+U U U U
+U U U U
+U U U U
+U U U U
+U U L L
+# Player1 name: 
+kauhsal
+# Player2 name: 
+gawri
+# Player3 name: 
+mumma
+# Player4 name: 
+papa
+# Player1 points: 
+0
+# Player2 points: 
+0
+# Player3 points: 
+0
+# Player4 points: 
+0
+# Player1 board: 
+        . | | 
+      . . | | 
+    . . . | | 
+  . . . . | | 
+. . . . . | | 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+# Player2 board: 
+        . | | 
+      . . | | 
+    . . . | | 
+  . . . . | | 
+. . . . . | | 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+# Player3 board: 
+        . | | 
+      . . | | 
+    . . . | | 
+  . . . . | | 
+. . . . . | | 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+# Player4 board: 
+        . | | 
+      . . | | 
+    . . . | | 
+  . . . . | | 
+. . . . . | | 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 

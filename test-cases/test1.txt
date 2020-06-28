@@ -1,0 +1,94 @@
+# Grey Board Mode: 
+0
+# 6 Tile Mode: 
+1
+# Number Of Players: 
+4
+# Number of Centre Factories: 
+2
+# Bag
+OLYLLBOBBOOBOOLOBULUBBYOLLOYLLBOBLUUYYOUBLOUUUUBYLOOOUOLBOUBUOLBLULYOBLYOBLOBUBUOBLL
+# Lid: 
+_ 
+# Factories: 
+F
+
+L B O Y
+Y Y B Y
+O L Y R
+B B L U
+B B O U
+B L Y U
+Y B L B
+O L B Y
+L O U B
+# Player1 name: 
+kaushal
+# Player2 name: 
+Drake
+# Player3 name: 
+Raghav
+# Player4 name: 
+Robert
+# Player1 points: 
+0
+# Player2 points: 
+0
+# Player3 points: 
+0
+# Player4 points: 
+0
+# Player1 board: 
+          . | | 
+        . . | | 
+      . . . | | 
+    . . . . | | 
+  . . . . . | | 
+. . . . . . | | 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+# Player2 board: 
+          . | | 
+        . . | | 
+      . . . | | 
+    . . . . | | 
+  . . . . . | | 
+. . . . . . | | 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+# Player3 board: 
+          . | | 
+        . . | | 
+      . . . | | 
+    . . . . | | 
+  . . . . . | | 
+. . . . . . | | 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+# Player4 board: 
+          . | | 
+        . . | | 
+      . . . | | 
+    . . . . | | 
+  . . . . . | | 
+. . . . . . | | 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+# Current Player: 
+kaushal

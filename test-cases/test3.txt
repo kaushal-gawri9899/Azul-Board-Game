@@ -1,0 +1,52 @@
+# Grey Board Mode: 
+0
+# 6 Tile Mode: 
+0
+# Number Of Players: 
+2
+# Number of Centre Factories: 
+2
+# Bag
+LLLLLLLLLLLLLLLLLLLUUUUUUUUUUUUUUUUUUUUBBBBBBBBBBBBBBBBBBBLLLLLLLLLLLLLLLLBBBBBB
+# Lid: 
+_ 
+# Factories: 
+F
+L
+
+B B B B
+
+B B B B
+
+# Player1 name: 
+kaushal
+# Player2 name: 
+gawri
+# Player1 points: 
+0
+# Player2 points: 
+0
+# Player1 board: 
+        . | | 
+      . . | | 
+    . . . | | 
+  B B B B | | 
+B B B B . | | 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+# Player2 board: 
+        . | | 
+      . . | | 
+    B B B | | 
+  . . . . | | 
+. . . . . | | 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+# Current Player: 
+gawri
